@@ -1,16 +1,19 @@
 ---
+author: awyme
 title: 安装Vaultwarden代替lastpass
 pubDatetime: 2021-07-05 16:09:46 +08:00
-lastmod: 2026-01-26 11:04:03 +08:00
+modDatetime: 2026-01-26 11:04:03 +08:00
 timezone: UTC+8
-url: /posts/lastpass-to-vaultwarden/
+slug: lastpass-to-vaultwarden
 description: 安装Vaultwarden代替lastpass
-toc: true
+draft: false
 tags:
   - bitwarden
   - lastpass
   - password
   - docker
+description:
+  安装Vaultwarden代替lastpass
 ---
 多年来一直使用Lastpass作为主要的密码管理工具，直到最近LastPass 宣布将从今年 3 月 16 日开始限制免费版用户访问该服务的设备类型，限制如下：
 
