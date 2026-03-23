@@ -33,7 +33,7 @@ const datetime = dayjs(isModified ? modDatetime : pubDatetime).tz(
 
 // 中文日期格式
 
-const date = datetime.format("YYYY年MM月DD日 HH:mm"); // 例如：2025年03月22日
+const date = datetime.format("YYYY-MM-DD HH:mm"); // 例如：2025-03-22
 // 可选：添加星期几
 // const date = datetime.format("YYYY年MM月DD日 dddd"); // 例如：2025年03月22日 星期六
 ---
