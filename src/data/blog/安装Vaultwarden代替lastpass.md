@@ -1,9 +1,8 @@
 ---
 author: awyme
 title: 安装Vaultwarden代替lastpass
-pubDatetime: 2021-07-05 16:09:46 +08:00
-modDatetime: 2026-01-26 11:04:03 +08:00
-timezone: UTC+8
+pubDatetime: 2021-07-05 16:09:46z
+modDatetime: 2026-01-26 11:04:03z
 slug: lastpass-to-vaultwarden
 description: 安装Vaultwarden代替lastpass
 draft: false
