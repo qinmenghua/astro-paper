@@ -4,7 +4,7 @@ pubDatetime: 2021-07-05 16:09:46 +08:00
 lastmod: 2026-01-26 11:04:03 +08:00
 timezone: UTC+8
 url: /posts/lastpass-to-vaultwarden/
-isCJKLanguage: true
+description: 安装Vaultwarden代替lastpass
 toc: true
 tags:
   - bitwarden
