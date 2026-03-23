@@ -31,7 +31,11 @@ const datetime = dayjs(isModified ? modDatetime : pubDatetime).tz(
   postTimezone || SITE.timezone
 );
 
-const date = datetime.format("D MMM, YYYY"); // e.g., '22 Mar, 2025'
+// 中文日期格式
+
+const date = datetime.format("YYYY年MM月DD日 HH:mm"); // 例如：2025年03月22日
+// 可选：添加星期几
+// const date = datetime.format("YYYY年MM月DD日 dddd"); // 例如：2025年03月22日 星期六
 ---
 
 <div class:list={["flex items-center gap-x-2 opacity-80", className]}>
