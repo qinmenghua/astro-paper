@@ -1,7 +1,6 @@
 ---
 title: 安装Vaultwarden代替lastpass
 author: awyme
-description: 从 LastPass 迁移到自托管的 Vaultwarden 密码管理器，保护你的密码安全
 pubDatetime: 2021-07-05T16:09:46+08:00
 modDatetime: 2026-01-26T11:04:03+08:00
 tags:
