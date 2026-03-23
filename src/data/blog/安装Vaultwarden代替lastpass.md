@@ -13,7 +13,7 @@ tags:
   - password
   - docker
 description:
-  安装Vaultwarden代替lastpass
+  安装Vaultwarden代替lastpass。。
 ---
 多年来一直使用Lastpass作为主要的密码管理工具，直到最近LastPass 宣布将从今年 3 月 16 日开始限制免费版用户访问该服务的设备类型，限制如下：
 
